@@ -1,0 +1,48 @@
+.custom-nav {
+  border: 2px solid black;
+  padding: 15px;
+  background-color: #ffffff;
+}
+
+.filter-group {
+  width: 80%;
+  gap: 15px;
+}
+
+.search-group {
+  width: 18%;
+  text-align: right;
+}
+
+.custom-select {
+  width: 100%;
+  padding: 8px 12px;
+  font-weight: bold;
+  border: 3px solid black;
+  background-color: white;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.custom-btn {
+  width: 100%;
+  padding: 8px 12px;
+  font-weight: bold;
+  border: 3px solid black;
+  background-color: white;
+  color: black;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.custom-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.card-title, .card-text {
+  border: 2px solid black;
+  padding: 6px 8px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
